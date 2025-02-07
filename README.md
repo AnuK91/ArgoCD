@@ -1,1 +1,1 @@
-# ArgoCD
+# This is ArgoCD Demo Example
